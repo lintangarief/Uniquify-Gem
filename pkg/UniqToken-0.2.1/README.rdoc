@@ -1,0 +1,5 @@
+= UniqToken
+
+Rails gem for generating a unique token in an Active Record model.
+
+(rest of file omitted).
